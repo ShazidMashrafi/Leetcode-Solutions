@@ -13,6 +13,7 @@ This repository contains my solutions of Leetcode problems. They are in C++ lang
 | 1 | Two sum | [Question](https://leetcode.com/problems/two-sum) | [Solution](https://github.com/ShazidMashrafi/Leetcode-Solutions/tree/main/Codes/1.%20Two%20sum)
 | 22 |Generate Parentheses | [Question](https://leetcode.com/problems/generate-parentheses) | [Solution](https://github.com/ShazidMashrafi/Leetcode-Solutions/tree/main/Codes/22.%20%20Generate%20parentheses)
 | 78 | Subsets | [Question](https://leetcode.com/problems/subsets) | [Solution](https://github.com/ShazidMashrafi/Leetcode-Solutions/tree/main/Codes/78.%20Subsets)
+| 153 | Find Minimum in Rotated Sorted Array | [Question](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | [Solution]
 
 </div>
 
