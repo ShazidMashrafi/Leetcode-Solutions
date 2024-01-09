@@ -18,6 +18,7 @@ This repository contains my solutions of Leetcode problems. They are in C++ lang
 | 6 | 204 | Count Primes | [Question](https://leetcode.com/problems/count-primes) | [Solution](https://github.com/ShazidMashrafi/Leetcode-Solutions/tree/main/Codes/204%20-%20Count%20Primes)
 | 7 | 372 | Super Pow | [Question](https://leetcode.com/problems/super-pow) | [Solution](https://github.com/ShazidMashrafi/Leetcode-Solutions/tree/main/Codes/372%20-%20Super%20Pow)
 | 8 | 733 | Flood Fill | [Question](https://leetcode.com/problems/flood-fill) | [Solution](https://github.com/ShazidMashrafi/Leetcode-Solutions/tree/main/Codes/733%20-%20Flood%20Fill)
+| 9 | 743 | Network Delay Time | [Question](https://leetcode.com/problems/network-delay-time) | [Solution](https://github.com/ShazidMashrafi/Leetcode-Solutions/tree/main/Codes/743%20-%20Network%20Delay%20Time)
 
 
 
