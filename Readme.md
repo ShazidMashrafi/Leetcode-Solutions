@@ -21,6 +21,7 @@ This repository contains my solutions of Leetcode problems. They are in C++ lang
 | 9 | 372 | Super Pow | [Question](https://leetcode.com/problems/super-pow) | [Solution](https://github.com/ShazidMashrafi/Leetcode-Solutions/tree/main/Codes/372%20-%20Super%20Pow)
 | 10 | 733 | Flood Fill | [Question](https://leetcode.com/problems/flood-fill) | [Solution](https://github.com/ShazidMashrafi/Leetcode-Solutions/tree/main/Codes/733%20-%20Flood%20Fill)
 | 11 | 743 | Network Delay Time | [Question](https://leetcode.com/problems/network-delay-time) | [Solution](https://github.com/ShazidMashrafi/Leetcode-Solutions/tree/main/Codes/743%20-%20Network%20Delay%20Time)
+| 12 | 746 | Min Cost Climbing Stairs | [Question](https://leetcode.com/problems/min-cost-climbing-stairs) | [Solution](https://github.com/ShazidMashrafi/Leetcode-Solutions/tree/main/Codes/746%20-%20Min%20Cost%20Climbing%20Stairs)
 
 
 
